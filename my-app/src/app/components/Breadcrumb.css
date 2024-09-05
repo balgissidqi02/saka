@@ -1,0 +1,40 @@
+.breadcrumb {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.breadcrumb-default {
+  background-color: #f8f9fa;
+}
+
+.breadcrumb-custom {
+  background-color: #ffbf5e;
+}
+
+.breadcrumb-small {
+
+  font-size: 12px;
+}
+
+.breadcrumb-medium {
+  font-size: 16px;
+}
+
+.breadcrumb-large {
+  font-size: 20px;
+}
+
+.breadcrumb-item {
+  display: inline;
+
+
+}
+
+.breadcrumb-separator {
+  margin: 0 5px;
+}
+
+.breadcrumb-icon {
+  margin-right: 5px;
+}
